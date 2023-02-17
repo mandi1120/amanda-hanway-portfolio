@@ -4,14 +4,16 @@ This portfolio is a display of my skills and experience in data analytics, codin
 Skills: SQL • Python • Reporting • Design & Presentation • Analysis • Data Management  
 Tools:  Power BI • Excel • Visual Studio Code • Command Prompt • Github  
 
+## Education
+- MS Data Analytics, Northwest Missouri State University, 2023
+
 ## Professional Development & Certifications
-
-
+- Microsoft Certified: Power BI Data Analyst Associate
 
 ## Projects
 
-1. Reddit Streaming Data
-  - Description:
+### 1. Reddit Streaming Data
+- Description:
 
 
 
