@@ -1,5 +1,5 @@
 # Professional Portfolio - Amanda Hanway
-This portfolio is a display of my skills and experience in data analytics, coding, and analytic-related tools. Projects that appear in this portfolio have been completed through academic coursework or professional learning initiatives. All datasets are fabricated or are publicy available at the cited source.
+This portfolio is a display of my skills and experience in data analytics, coding, and analytic-related tools. Projects that appear in this portfolio have been completed through academic coursework or professional learning initiatives. All datasets are fabricated or are publicly available at the cited source.
 
 - **Languages:** SQL • Python • R 
 - **Tools:**  Power BI • Excel • Visual Studio Code • Command Prompt • Git    
