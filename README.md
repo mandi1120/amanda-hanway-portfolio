@@ -1,20 +1,21 @@
 # Professional Portfolio - Amanda Hanway
-This portfolio is a display of my skills and experience in data analytics, coding, and analytic-related tools. Projects that appear in this portfolio have been completed through academic coursework or professional learning initiatives. All datasets are fabricated or are publicly available at the cited source.
+This portfolio is a display of my skills and experience in data analytics, coding, and analytic-related tools. Projects that appear in this portfolio have been completed through academic coursework or professional learning initiative. All datasets are fabricated or are publicly available at the cited source.
 
+#### Competencies:
 - **Languages:** SQL • Python • R 
-- **Tools:**  Power BI • Excel • Visual Studio Code • Command Prompt • Git    
+- **Tools:** Power BI • Excel • Teradata • Visual Studio Code • Command Prompt • Git    
 - **Skills:** Reporting • Design & Presentation • Analysis • Data Management • Version Control  
 
-### Education
+#### Education:  
 - MS Data Analytics, Northwest Missouri State University, 2023 (expected)
 
-### Certifications
+#### Certifications:  
 - Microsoft Certified: Power BI Data Analyst Associate
 
-### Professional Development 
-- Data Analyst in Power BI Career Track - Datacamp.com  
-- Power BI Fundamentals Skill Track - Datacamp.com  
-- SQL Fundamentals Skill Track - Datacamp.com  
+#### Professional Development:   
+- Data Analyst in Power BI Career Track - Datacamp.com (Dec. 2022)  
+- Power BI Fundamentals Skill Track - Datacamp.com (Dec. 2022) 
+- SQL Fundamentals Skill Track - Datacamp.com (Dec. 2022) 
 #
 ### Projects
 #
