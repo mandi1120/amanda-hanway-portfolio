@@ -5,19 +5,19 @@ This portfolio is a display of my skills and experience in data analytics, codin
 - **Tools:**  Power BI • Excel • Visual Studio Code • Command Prompt • Git    
 - **Skills:** Reporting • Design & Presentation • Analysis • Data Management • Version Control  
 
-## Education
+### Education
 - MS Data Analytics, Northwest Missouri State University, 2023 (expected)
 
-## Certifications
+### Certifications
 - Microsoft Certified: Power BI Data Analyst Associate
 
-## Professional Development 
+### Professional Development 
 - Data Analyst in Power BI Career Track - Datacamp.com  
 - Power BI Fundamentals Skill Track - Datacamp.com  
 - SQL Fundamentals Skill Track - Datacamp.com  
-
-## Projects
-
+#
+### Projects
+#
 #### <img align="right" width="100" height="100" hspace=10 alt="reddit logo" src="https://www.redditinc.com/assets/images/site/reddit-logo.png"> 
 #### [Reddit Streaming Data Project](https://github.com/mandi1120/streaming-07-custom-project)
 - Description: Streaming data using the Reddit API and RabbitMQ  <br />
