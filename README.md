@@ -18,7 +18,8 @@ This portfolio is a display of my skills and experience in data analytics, codin
 
 ## Projects
 
-#### <img align="right" width="100" height="100" hspace=10 alt="reddit logo" src="https://www.redditinc.com/assets/images/site/reddit-logo.png"> [Reddit Streaming Data Project](https://github.com/mandi1120/streaming-07-custom-project)
+#### <img align="right" width="100" height="100" hspace=10 alt="reddit logo" src="https://www.redditinc.com/assets/images/site/reddit-logo.png"> 
+#### [Reddit Streaming Data Project](https://github.com/mandi1120/streaming-07-custom-project)
 - Description: Streaming data using the Reddit API and RabbitMQ  <br />
 - Language: Python  <br />
 - Skills Demonstrated: Data cleansing, File handling  <br />
@@ -28,6 +29,7 @@ This portfolio is a display of my skills and experience in data analytics, codin
 - Language: Python 
 - Skills Demonstrated: Data cleansing, File handling 
 #
+#### <img align="right" width="100" height="100" hspace=10 alt="nuforc logo" src="https://nuforc.org/wp-content/uploads/2021/08/nuforc-1.gif"> 
 #### [Missouri UFO Sightings Dashboard-Coming Soon](https://github.com/mandi1120/)
 - Description: Power BI report built on UFO sighting data from [National UFO Reporting Center](https://nuforc.org/)    
 - Language: Python, DAX 
@@ -38,13 +40,10 @@ This portfolio is a display of my skills and experience in data analytics, codin
 - Language: SQL
 - Skills Demonstrated:  
 #
-#
 #### [Excel Project-Coming Soon](https://github.com/mandi1120/)  
 - Description:   
 - Language: N/A
 - Skills Demonstrated:  
 #
-
-
 
 
