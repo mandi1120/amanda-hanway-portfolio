@@ -10,12 +10,12 @@ This portfolio is a display of my skills and experience in data analytics, codin
 - MS Data Analytics, Northwest Missouri State University, 2023 (expected)
 
 #### Certifications:  
-- Microsoft Certified: Power BI Data Analyst Associate
+- [Microsoft Certified: Power BI Data Analyst Associate](/supporting_files/Microsoft%20Certified%20Power%20BI.png)
 
 #### Professional Development:   
-- Data Analyst in Power BI Career Track - Datacamp.com (Dec. 2022)  
-- Power BI Fundamentals Skill Track - Datacamp.com (Dec. 2022) 
-- SQL Fundamentals Skill Track - Datacamp.com (Dec. 2022) 
+- [Data Analyst in Power BI Career Track](/supporting_files/Data%20Analyst%20in%20Power%20BI.pdf) - Datacamp.com (Dec. 2022)  
+- [Power BI Fundamentals Skill Track](/supporting_files/Power%20BI%20Fundamentals%20-%20Data%20Camp.pdf) - Datacamp.com (Dec. 2022) 
+- [SQL Fundamentals Skill Track](/supporting_files/SQL%20Fundamentals%20-%20Data%20Camp.pdf) - Datacamp.com (Dec. 2022) 
 #
 ### Projects
 #
