@@ -36,15 +36,16 @@ This portfolio is a display of my skills and experience in data analytics, codin
 - Language: Python, DAX 
 - Skills Demonstrated: Data cleansing, Power Query, Power BI, Report Presentation 
 #
+#### <img align="right" width="100" height="55" hspace=10 wspace=10 alt="nuforc logo" src="https://github.com/mandi1120/hostess_brands_dashboard/blob/main/supporting_files/twinkie.png"> 
+#### [Hostess Brands Financial Dashboard](https://github.com/mandi1120/hostess_brands_dashboard)  
+- Description: Excel report built on Hostess Brands, Inc. financial data from sec.gov  
+- Language: N/A
+- Skills Demonstrated: Formulas (if, or, sum, iferror, vlookup, indirect), creating tables and calculated columns, using Get & Transform (Power Query), creating pivot tables and pivot charts 
+
+#
 #### [SQL Project-Coming Soon](https://github.com/mandi1120/)  
 - Description:   
 - Language: SQL
 - Skills Demonstrated:  
 #
-#### [Excel Project-Coming Soon](https://github.com/mandi1120/)  
-- Description:   
-- Language: N/A
-- Skills Demonstrated:  
-#
-
 
