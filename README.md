@@ -36,7 +36,7 @@ This portfolio is a display of my skills and experience in data analytics, codin
 #
 #### <img align="right" width="100" height="100" hspace=10 wspace=10 alt="nuforc logo" src="https://nuforc.org/wp-content/uploads/2021/08/nuforc-1.gif"> 
 #### [Missouri UFO Sightings Dashboard](https://github.com/mandi1120/mo_ufo_dashboard/)
-- Description: Power BI report built on UFO sighting data from [National UFO Reporting Center](https://nuforc.org/)    
+- Description: Power BI report built on UFO sighting data from National UFO Reporting Center  
 - Language: Python, DAX 
 - Skills Demonstrated: Data cleansing, Power Query, Power BI, Report Presentation 
 #
