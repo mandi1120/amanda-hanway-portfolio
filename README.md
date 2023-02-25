@@ -2,9 +2,9 @@
 This portfolio is a display of my skills and experience in data analytics, coding, and analytic-related tools. Projects that appear in this portfolio have been completed through academic coursework or professional learning initiative. All datasets are fabricated or are publicly available at the cited source.
 
 #### Competencies:
-- **Languages:** SQL • Python • R 
-- **Tools:** Power BI • Excel • Teradata • Visual Studio Code • Command Prompt • Git    
-- **Skills:** Reporting • Design & Presentation • Analysis • Data Management • Version Control  
+- **Languages:** SQL, Python, R 
+- **Tools:** Power BI, Excel, Teradata, Visual Studio Code, Command Prompt, Git    
+- **Skills:** Reporting, Design & Presentation, Analysis, Data Management, Version Control  
 
 #### Education:  
 - MS Data Analytics, Northwest Missouri State University, 2023 (expected)
@@ -16,6 +16,7 @@ This portfolio is a display of my skills and experience in data analytics, codin
 - [Data Analyst in Power BI Career Track](/supporting_files/Data%20Analyst%20in%20Power%20BI.pdf) - Datacamp.com (Dec. 2022)  
 - [Power BI Fundamentals Skill Track](/supporting_files/Power%20BI%20Fundamentals%20-%20Data%20Camp.pdf) - Datacamp.com (Dec. 2022) 
 - [SQL Fundamentals Skill Track](/supporting_files/SQL%20Fundamentals%20-%20Data%20Camp.pdf) - Datacamp.com (Dec. 2022) 
+- [Project Management Fundamentals](/supporting_files/Project%20Management%20Fundamentals.pdf) - IBM Skillsbuild.org (Feb. 2023) 
 #
 ### Projects
 #
@@ -36,7 +37,7 @@ This portfolio is a display of my skills and experience in data analytics, codin
 - Language: Python, DAX 
 - Skills Demonstrated: Data cleansing, Power Query, Power BI, Report Presentation 
 #
-#### <img align="right" width="100" height="55" hspace=10 wspace=10 alt="nuforc logo" src="https://github.com/mandi1120/hostess_brands_dashboard/blob/main/supporting_files/twinkie.png"> 
+#### <img align="right" width="100" height="55" hspace=10 wspace=10 alt="twinkie" src="https://github.com/mandi1120/hostess_brands_dashboard/blob/main/supporting_files/twinkie.png"> 
 #### [Hostess Brands Financial Dashboard](https://github.com/mandi1120/hostess_brands_dashboard)  
 - Description: Excel report built on Hostess Brands, Inc. financial data from sec.gov  
 - Language: N/A
