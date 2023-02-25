@@ -48,7 +48,7 @@ This portfolio is a display of my skills and experience in data analytics, codin
 #
 #### <img align="right" width="100" height="125" hspace=10 wspace=10 alt="beautifulsoup" src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/6.1.jpg"> 
 #### [Article Summarizer Web Mining & NLP Project](https://github.com/mandi1120/article-summarizer)  
-- Description: Scraping text from a website and performing sentiment analysis using BeautifulSoup and spaCy  
+- Description: Scraping text from a website using Beautiful Soup, and performing sentiment analysis using spaCy 
 - Language: Python
 - Skills Demonstrated: Web Mining, Natural Language Processing, Sentiment Analysis, JupyterLab
 #
