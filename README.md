@@ -19,41 +19,65 @@ This portfolio is a display of my skills and experience in data analytics, codin
 - [Data Analyst in Power BI Career Track](/supporting_files/Data%20Analyst%20in%20Power%20BI.pdf) - Datacamp.com (Dec. 2022)  
 - [Power BI Fundamentals Skill Track](/supporting_files/Power%20BI%20Fundamentals%20-%20Data%20Camp.pdf) - Datacamp.com (Dec. 2022) 
 - [SQL Fundamentals Skill Track](/supporting_files/SQL%20Fundamentals%20-%20Data%20Camp.pdf) - Datacamp.com (Dec. 2022) 
+<br/>  
 
-#
-### Projects
-#
-#### <img align="right" width="100" height="100" hspace=10 wspace=10 alt="reddit logo" src="https://www.redditinc.com/assets/images/site/reddit-logo.png"> 
-#### [Reddit Streaming Data Project](https://github.com/mandi1120/streaming-07-custom-project)
+### Projects:   
+
+---
+<img align="right" height="20" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">  
+
+#### [Reddit Streaming Data Project](https://github.com/mandi1120/streaming-07-custom-project)  
 - Description: Streaming data using the Reddit API and RabbitMQ  <br />
 - Language: Python  <br />
-- Skills Demonstrated: Data cleansing, File handling  <br />
-#
+- Skills Demonstrated: Data cleansing, File handling    
+
+---
+<img align="right" height="20" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">  
+
 #### [Smart BBQ Smoker Streaming Data Project](https://github.com/mandi1120/streaming-05-smart-smoker)
 - Description: Streaming data simulation using a csv file and RabbitMQ
 - Language: Python 
 - Skills Demonstrated: Data cleansing, File handling 
-#
-#### <img align="right" width="100" height="100" hspace=10 wspace=10 alt="nuforc logo" src="https://nuforc.org/wp-content/uploads/2021/08/nuforc-1.gif"> 
+
+---
+<img align="right" height="20" alt="power bi" src="https://img.shields.io/badge/Power%20BI-3776AB.svg?style=for-the-badge&logo=Power-BI&logoColor=white">  
+
 #### [Missouri UFO Sightings Dashboard](https://github.com/mandi1120/mo_ufo_dashboard/)
 - Description: Power BI report built on UFO sighting data from National UFO Reporting Center  
 - Language: Python, DAX 
 - Skills Demonstrated: Data cleansing, Power Query, Power BI, Report Presentation 
-#
-#### <img align="right" width="100" height="55" hspace=10 wspace=50 alt="twinkie" src="https://github.com/mandi1120/hostess_brands_dashboard/blob/main/supporting_files/twinkie.png"> 
+
+---
+<img align="right" height="20" alt="excel" src="https://img.shields.io/badge/Microsoft%20Excel-3776AB.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white">  
+
 #### [Hostess Brands Financial Dashboard](https://github.com/mandi1120/hostess_brands_dashboard)  
 - Description: Excel report built on Hostess Brands, Inc. financial data from sec.gov  
 - Language: N/A
 - Skills Demonstrated: Formulas (if, or, sum, iferror, vlookup, indirect), creating tables and calculated columns, using Get & Transform (Power Query), creating pivot tables and pivot charts 
-#
-#### <img align="right" width="100" height="125" hspace=10 wspace=10 alt="beautifulsoup" src="https://beautiful-soup-4.readthedocs.io/en/latest/_images/6.1.jpg"> 
+
+---
+<img align="right" height="20" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">  
+
 #### [Article Summarizer Web Mining & NLP Project](https://github.com/mandi1120/article-summarizer)  
 - Description: Scraping text from a website using Beautiful Soup, and performing sentiment analysis using spaCy 
 - Language: Python
 - Skills Demonstrated: Web Mining, Natural Language Processing, Sentiment Analysis, JupyterLab
-#
+
+---
+<img align="right" height="20" src="https://img.shields.io/badge/PostgreSQL-3776AB.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">  
+
 #### [SQL Project-Coming Soon](https://github.com/mandi1120/)  
 - Description:  
 - Language: SQL
 - Skills Demonstrated:  
-#
+
+---
+<br/>   
+<br/>    
+<br/>  
+<br/>    
+<br/>    
+  
+<!---
+badges from:  https://home.aveek.io/GitHub-Profile-Badges/
+-->
