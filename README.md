@@ -3,7 +3,7 @@ This portfolio is a display of my skills and experience in data analytics, codin
 
 #### Competencies:
 - **Languages:** SQL, Python, R 
-- **Tools:** Power BI, Excel, Teradata, Visual Studio Code, Command Prompt, Git, Jupyter Lab    
+- **Tools:** Power BI, Excel, Teradata, Visual Studio Code, Command Prompt, Git, Jupyter Lab, pgAdmin 4    
 - **Skills:** Reporting, Design & Presentation, Analysis, Data Management, Version Control  
 
 #### Education:  
@@ -24,20 +24,12 @@ This portfolio is a display of my skills and experience in data analytics, codin
 ### Projects:   
 
 ---
-<img align="right" height="20" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">  
+<img align="right" height="20" src="https://img.shields.io/badge/PostgreSQL-3776AB.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">  
 
-#### [Reddit Streaming Data Project](https://github.com/mandi1120/streaming-07-custom-project)  
-- Description: Streaming data using the Reddit API and RabbitMQ  <br />
-- Language: Python  <br />
-- Skills Demonstrated: Data cleansing, File handling    
-
----
-<img align="right" height="20" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">  
-
-#### [Smart BBQ Smoker Streaming Data Project](https://github.com/mandi1120/streaming-05-smart-smoker)
-- Description: Streaming data simulation using a csv file and RabbitMQ
-- Language: Python 
-- Skills Demonstrated: Data cleansing, File handling 
+#### [NUFORC SQL Database Project](https://github.com/mandi1120/nuforc_sql_database)  
+- Description: PostgreSQL database of UFO sighting data  
+- Language: SQL
+- Skills Demonstrated: pgAdmin 4, SQL database management, SQL queries, text cleaning 
 
 ---
 <img align="right" height="20" alt="power bi" src="https://img.shields.io/badge/Power%20BI-3776AB.svg?style=for-the-badge&logo=Power-BI&logoColor=white">  
@@ -56,6 +48,24 @@ This portfolio is a display of my skills and experience in data analytics, codin
 - Skills Demonstrated: Formulas (if, or, sum, iferror, vlookup, indirect), creating tables and calculated columns, using Get & Transform (Power Query), creating pivot tables and pivot charts 
 
 ---
+<img align="right" height="20" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">  
+
+#### [Reddit Streaming Data Project](https://github.com/mandi1120/streaming-07-custom-project)  
+- Description: Streaming data using the Reddit API and RabbitMQ  <br />
+- Language: Python  <br />
+- Skills Demonstrated: Data cleansing, File handling    
+
+---
+<img align="right" height="20" alt="python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">  
+
+#### [Smart BBQ Smoker Streaming Data Project](https://github.com/mandi1120/streaming-05-smart-smoker)
+- Description: Streaming data simulation using a csv file and RabbitMQ
+- Language: Python 
+- Skills Demonstrated: Data cleansing, File handling 
+
+
+
+---
 <img align="right" height="20" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">  
 
 #### [Article Summarizer Web Mining & NLP Project](https://github.com/mandi1120/article-summarizer)  
@@ -63,13 +73,7 @@ This portfolio is a display of my skills and experience in data analytics, codin
 - Language: Python
 - Skills Demonstrated: Web Mining, Natural Language Processing, Sentiment Analysis, JupyterLab
 
----
-<img align="right" height="20" src="https://img.shields.io/badge/PostgreSQL-3776AB.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">  
 
-#### [SQL Project-Coming Soon](https://github.com/mandi1120/)  
-- Description:  
-- Language: SQL
-- Skills Demonstrated:  
 
 ---
 <br/>   
@@ -77,6 +81,9 @@ This portfolio is a display of my skills and experience in data analytics, codin
 <br/>  
 <br/>    
 <br/>    
+  
+  
+  
   
 <!---
 badges from:  https://home.aveek.io/GitHub-Profile-Badges/
