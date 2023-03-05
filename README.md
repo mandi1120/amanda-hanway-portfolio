@@ -14,14 +14,14 @@ This portfolio is a display of my skills and experience in data analytics, codin
 
 #### Professional Development:   
 <details open><summary>2023</summary><br><ul>
-<li><a href="https://github.com/mandi1120/amanda-hanway-portfolio/supporting_files/Project%20Management%20Fundamentals.pdf">Project Management Fundamentals</a> - IBM Skillsbuild.org (Feb. 2023) 
+<li><a href="https://github.com/mandi1120/amanda-hanway-portfolio/blob/main/supporting_files/Project%20Management%20Fundamentals.pdf">Project Management Fundamentals</a> - IBM Skillsbuild.org (Feb. 2023) 
 <li>Read: Kelley, Bob. Healthcare Data Analytics: Primary Methods and Related Insights. 2019. (Feb. 2023)
 <li>Read: Rowell, Katherine L., et al. Visualizing Health and Healthcare Data: Creating Clear and Compelling Visualizations to "See How You're Doing". Wiley, 2021. (Jan. 2023)
 </ul></details>
 <details><summary>2022</summary><br><ul>
-<li><a href="https://github.com/mandi1120/amanda-hanway-portfolio/supporting_files/Data%20Analyst%20in%20Power%20BI.pdf">Data Analyst in Power BI Career Track</a> - Datacamp.com (Dec. 2022)
-<li><a href="https://github.com/mandi1120/amanda-hanway-portfolio/supporting_files/Power%20BI%20Fundamentals%20-%20Data%20Camp.pdf">Power BI Fundamentals Skill Track</a> - Datacamp.com (Dec. 2022)
-<li><a href="https://github.com/mandi1120/amanda-hanway-portfolio/supporting_files/SQL%20Fundamentals%20-%20Data%20Camp.pdf">SQL Fundamentals Skill Track</a> - Datacamp.com (Dec. 2022)
+<li><a href="https://github.com/mandi1120/amanda-hanway-portfolio/blob/main/supporting_files/Data%20Analyst%20in%20Power%20BI.pdf">Data Analyst in Power BI Career Track</a> - Datacamp.com (Dec. 2022)
+<li><a href="https://github.com/mandi1120/amanda-hanway-portfolio/blob/main/supporting_files/Power%20BI%20Fundamentals%20-%20Data%20Camp.pdf">Power BI Fundamentals Skill Track</a> - Datacamp.com (Dec. 2022)
+<li><a href="https://github.com/mandi1120/amanda-hanway-portfolio/blob/main/supporting_files/SQL%20Fundamentals%20-%20Data%20Camp.pdf">SQL Fundamentals Skill Track</a> - Datacamp.com (Dec. 2022)
 </ul></details>
 
 <br/>  
